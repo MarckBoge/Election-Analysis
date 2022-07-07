@@ -13,9 +13,9 @@ Tom a Colorado Board of Elections employee asked for our assists with completing
    
 ## Resources
   
-**Data Source:** election_results.csv
+* Data Source: election_results.csv
   
-**Software:** Python 3.9.12, Visual Studio Code 
+* Software: Python 3.9.12, Visual Studio Code 
   
 ## Summary
   
